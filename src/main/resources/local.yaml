@@ -1,0 +1,11 @@
+sftp:
+  host: "localhost"
+  port: "22"
+  username: Ankita
+  password: Ankita
+  directory:
+    path: C:\Users\mendh\Downloads\CoderFiles\
+    sourcepath: C:\Users\mendh\Downloads\CoderFiles\
+    targetpath: C:\Users\mendh\Downloads\CoderFiles\duplicatefiles
+    
+  
